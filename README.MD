@@ -81,6 +81,7 @@ I'm also diving into the fields of **Generative AI**, **Deep Learning**, and **C
 * **Generative AI**: Built a text generation app using OpenAI’s GPT models and experimented with prompt engineering and fine-tuning for domain-specific tasks.
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -91,7 +92,10 @@ I'm also diving into the fields of **Generative AI**, **Deep Learning**, and **C
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankajithdjinasena&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+
 ---
+
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
@@ -109,6 +113,7 @@ I'm also diving into the fields of **Generative AI**, **Deep Learning**, and **C
 </a>
 
 </div>
+
 
 ---
 
