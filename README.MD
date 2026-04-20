@@ -81,7 +81,17 @@ I'm also diving into the fields of **Generative AI**, **Deep Learning**, and **C
 * **Generative AI**: Built a text generation app using OpenAI’s GPT models and experimented with prompt engineering and fine-tuning for domain-specific tasks.
 
 ---
+## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sankajithdjinasena&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankajithdjinasena&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankajithdjinasena&theme=tokyonight" alt="GitHub Streak" />
+</div>
+---
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
