@@ -110,8 +110,8 @@ I'm also diving into the fields of **Generative AI**, **Deep Learning**, and **C
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thimira20011&label=Profile+Views&color=0284c7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/thimira20011?label=Followers&style=flat-square&color=0284c7" />
+  <img src="https://komarev.com/ghpvc/?username=sankajithdjinasena&label=Profile+Views&color=0284c7&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sankajithdjinasena?label=Followers&style=flat-square&color=0284c7" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=flat-square" />
 </p>
 
