@@ -2,14 +2,14 @@
 # 👋 Hello! I'm Sankajith D. Jinasena
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+Enthusiast;Generative+AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Scientist+Enthusiast;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm an undergraduate at the **Department of Data Science, Faculty of Computing, Sabaragamuwa University of Sri Lanka**, with a passion for building intelligent systems and robust web applications. My expertise lies at the intersection of **Data Science**, **Machine Learning**, and **Full Stack Development**.
+I'm an undergraduate at the **Department of Data Science, Faculty of Computing, Sabaragamuwa University of Sri Lanka**, with a passion for building intelligent systems and robust web applications. My expertise lies at the intersection of **Data Science**, **Machine Learning**, and **Artificial Intelligence**.
 
 I'm currently focused on exploring Data Engineering, Cloud Technologies, and Generative AI (GenAI) to build scalable, intelligent, and efficient solutions. I'm always open to collaborating on exciting projects and contributing to the open-source community.
 
